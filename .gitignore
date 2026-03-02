@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Firebase hosting cache
+.firebase/
+
+# Environment variables (contains API keys)
+.env
+.env.local
+
+# IDE
+.vscode/
